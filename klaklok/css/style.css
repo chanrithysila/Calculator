@@ -1,0 +1,18 @@
+.container{
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+button{
+    width: 30%;
+    padding: 20px;
+    border: none;
+    background:cyan;
+    color: antiquewhite;
+}
+#result{
+    width: 81%;
+    padding: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
